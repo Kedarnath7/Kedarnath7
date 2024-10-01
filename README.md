@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kedarnath7
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Analytics and various tools used for Analysis and Visualization
 - 📫 How to reach me kedarnathpinjala11@gmail.com
 
 <!---
